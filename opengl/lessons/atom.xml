@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>OpenGL Fundamentals</title>
     <link>http://openglfundamentals.org/</link>
-    <updated>2017-04-25T05:41:38Z</updated>
+    <updated>2017-04-25T13:13:05Z</updated>
     <author>
         <name>WebGLFundamenals Contributors</name>
         <uri>http://openglfundamentals.org/contributors.html</uri>
@@ -16,7 +16,7 @@
         <id>http://openglfundamentals.org/opengl/lessons/opengl-fundamentals.html</id>
         <link href="http://openglfundamentals.org/opengl/lessons/opengl-fundamentals.html">
         </link>
-        <updated>2017-04-25T05:41:38Z</updated>
+        <updated>2017-04-25T13:13:05Z</updated>
         <author>
             <name>OpenGLFundamenals Contributors</name>
             <uri>http://openglfundamentals.org/contributors.html</uri>
