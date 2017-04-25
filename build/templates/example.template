@@ -1,0 +1,5 @@
+<div>
+  <iframe class="opengl_example" style="{{width}} {{height}}" src="/opengl/resources/editor.html?url={{{examplePath}}}{{{url}}}"></iframe>
+  <a class="opengl_center" href="{{examplePath}}{{url}}" target="_blank">{{{caption}}}</a>
+</div>
+

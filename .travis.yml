@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - stable
+script:
+  - bash ./deploy.sh
+env:
+  global:
+    - ENCRYPTION_LABEL: "c4746eaed5c5"
+    - COMMIT_AUTHOR_EMAIL: "github@greggman.com"
+

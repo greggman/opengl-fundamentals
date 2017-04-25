@@ -1,0 +1,9 @@
+<div>
+  <iframe class="opengl_example {{className}}" style="width: {{width}}px; height: {{height}}px;" src="{{examplePath}}{{url}}"></iframe>
+  {{#caption}}
+  <div class="opengl_center">{{{../caption}}}</div>
+  {{/caption}}
+  {{^caption}}
+  {{/caption}}
+</div>
+

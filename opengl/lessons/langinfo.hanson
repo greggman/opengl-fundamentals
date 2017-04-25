@@ -1,0 +1,11 @@
+{
+  language: 'English',
+  defaultExampleCaption: "click here to open in a separate window",
+  title: 'OpenGL Fundamentals',
+  description: 'Learn OpenGL from the ground up. No magic',
+  link: 'http://openglfundamentals.org/',
+  commentSectionHeader: '<div>Questions? <a href="http://stackoverflow.com/questions/tagged/opengl">Ask on stackoverflow</a>.</div>\n        <div>Issue/Bug? <a href="http://github.com/greggman/opengl-fundamentals/issues">Create an issue on github</a>.</div>',
+  missing: 'not used for English',
+}
+
+
