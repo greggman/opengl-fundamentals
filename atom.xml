@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>OpenGL Fundamentals</title>
+    <link>http://openglfundamentals.org/</link>
+    <updated>2017-04-25T04:56:55Z</updated>
+    <author>
+        <name>WebGLFundamenals Contributors</name>
+        <uri>http://openglfundamentals.org/contributors.html</uri>
+    </author>
+    <link rel="alternate" href="http://openglfundamentals.org/"/>
+    <subtitle>Learn OpenGL from the ground up. No magic</subtitle>
+    <logo>http://openglfundamentals.org/opengl/lessons/resources/openglfundamentals.jpg</logo>
+    <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[OpenGL Fundamentals]]></title>
+        <id>http://openglfundamentals.org/opengl/lessons/opengl-fundamentals.html</id>
+        <link href="http://openglfundamentals.org/opengl/lessons/opengl-fundamentals.html">
+        </link>
+        <updated>2017-04-25T04:56:55Z</updated>
+        <author>
+            <name>OpenGLFundamenals Contributors</name>
+            <uri>http://openglfundamentals.org/contributors.html</uri>
+        </author>
+    </entry>
+</feed>
