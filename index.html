@@ -58,11 +58,34 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <link rel="stylesheet" href="/opengl/lessons/resources/base.css" type="text/css" />
 <link rel="stylesheet" href="/opengl/lessons/resources/lesson.css" type="text/css" />
 <link rel="stylesheet" href="/opengl/lessons/resources/index.css" type="text/css" />
+<style>
+.background {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -999;
+}
+.background>iframe {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+</style>
 </head>
 <div style="display: flex; height: 100vh; align-items: center; justify-content: center;">
-    <div>
-        opengl fundamentals
+    <div style="background: rgba(0,0,0,0.5); padding: 1em; color: white; font-family: monospace;">
+        <a href="opengl/examples/imgui/out/glfw-imgui.html">opengl fundamentals</a>
     </div>
+</div>
+<div class="background">
+  <iframe src="opengl/examples/background/out/background.html"></iframe>
 </div>
 </html>
 
